@@ -1,6 +1,6 @@
 class Book 
   
-  attr_accessor :tittle, 
+  attr_accessor :title, 
   
   
   

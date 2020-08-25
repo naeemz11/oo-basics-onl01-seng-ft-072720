@@ -8,7 +8,7 @@ class Book
     @title= title 
   end 
   
-  def page_count
+  def turn_page
     
   end
   

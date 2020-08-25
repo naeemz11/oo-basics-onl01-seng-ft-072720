@@ -1,5 +1,6 @@
 class Book 
   
+<<<<<<< HEAD
   def initialize(title)
     @title= title 
   end 
@@ -40,5 +41,15 @@ class Book
 end 
 
 
+=======
+  def initialze(tittle)
+    @tittle= tittle 
+  end 
+  
+  def tittle
+    @tittle
+  end 
+end 
+>>>>>>> f8509604a049a5e38e0021046c9be1f3e57dc8a2
 
-
+tittle= Book.new("")
